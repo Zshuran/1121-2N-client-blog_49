@@ -30,7 +30,7 @@ const BlogSupabase_49 = () => {
   return (
     <section className="blogs">
       <div className="section-title">
-        <h2>Blogs from Node Server</h2>
+        <h2>Blogs from Supabase</h2>
         <h3>{name},{id} </h3>
       </div>
       <div className="blogs-center">
